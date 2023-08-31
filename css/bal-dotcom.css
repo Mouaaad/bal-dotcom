@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: "Jost",Sans-serif;;
+}
+.container {
+    text-align: center;
+    background-color: rgb(240, 223, 203);
+    padding-bottom: 110px;
+}
+.logo img {
+    height: 100px;
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+p {
+    font-size: 25px;
+    font-weight: 900;
+    color: #555;
+    margin-bottom: 60px;
+}
+ul a {
+    color: black;
+}
+ul a:not(:last-child) {
+    margin-right: 20px;
+}
